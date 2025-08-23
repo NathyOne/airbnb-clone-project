@@ -15,3 +15,32 @@ It uses Technologies like Python, MySQL, GraphQL, Redis, and Django.
 4-MySql
 5-Redis
 
+#Database Design
+Users
+1- The user can have multiple properties.
+2- The user can make multiple Bookings.
+3- The user can give one review for one property.
+
+
+Properties
+1- Properties can only have one owner.
+2- Properties can be booked only by one user.
+
+Bookings
+1- Identifies the user who made the booking.
+2- Identifies the date it's booked.
+
+Reviews
+1- Identifies a user who made the review.
+2- Identifies the property reviewed.
+
+Payments
+1- Identifies the user who made the payment.
+2- Identifies the properties on which payment was made.
+
+
+
+
+
+
+
