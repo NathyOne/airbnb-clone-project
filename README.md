@@ -7,3 +7,11 @@ It uses Technologies like Python, MySQL, GraphQL, Redis, and Django.
 #Team Roles
 1-Backend developer: implement the core of an app—its algorithms and business logic.
 2-Database Administrator: Focuses on database optimization, indexing, Normalization, etc.
+
+#Technology Stack
+1-Django
+2-Rest Api
+3-Graphql
+4-MySql
+5-Redis
+
