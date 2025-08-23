@@ -38,6 +38,11 @@ Payments
 1- Identifies the user who made the payment.
 2- Identifies the properties on which payment was made.
 
+#Feature Breakdown
+User management: Manages a user by assigning a unique identity to a user and a relationship with other entities.
+Property management: Manages each property and the association with the user and other entities
+Booking system: Manages bookings and registers each with the associated user and property.
+
 
 
 
