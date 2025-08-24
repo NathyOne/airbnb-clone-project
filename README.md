@@ -55,6 +55,13 @@ securing payment?
 securing payment: securing payments is directly related to financial risks who should be avoided at all cost.
 
 
+#CI/CD Pipeline
+A CI/CD pipeline is an automated workflow that helps developers deliver high-quality software faster and more reliably by automating the build, test, and deployment processes.
+tools used for this include:
+Docker, gihub actions.
+
+
+
 
 
 
