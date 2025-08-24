@@ -43,6 +43,20 @@ User management: Manages a user by assigning a unique identity to a user and a r
 Property management: Manages each property and the association with the user and other entities
 Booking system: Manages bookings and registers each with the associated user and property.
 
+#API Security
+Authentication: Validating user exist or not in the database.
+Authorization: Who is allowed to access specific content.
+Rate limiting: For how long does a single request stay alive before the server responds with "too long time taken" or something similar.
+
+#Why 
+Why protecting user data is importanet?
+Protecting user data: protecting user data is crucial in avoiding any attacks and securing confidential information of the user from anyone who is unauthorized.
+securing payment?
+securing payment: securing payments is directly related to financial risks who should be avoided at all cost.
+
+
+
+
 
 
 
